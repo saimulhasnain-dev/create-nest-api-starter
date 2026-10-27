@@ -1,0 +1,43 @@
+{
+  "name": "create-nest-api-starter",
+  "version": "1.0.0",
+  "description": "npm create nest-api-starter my-api: a NestJS API skeleton with validated config, health check, global validation, uniform error responses, a sample CRUD module and tests.",
+  "type": "module",
+  "bin": {
+    "create-nest-api-starter": "cli.js"
+  },
+  "files": [
+    "cli.js",
+    "template",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test cli.test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "nestjs",
+    "nest",
+    "boilerplate",
+    "starter",
+    "template",
+    "scaffold",
+    "typescript",
+    "create",
+    "api",
+    "rest"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saimulhasnain-dev/create-nest-api-starter.git"
+  },
+  "homepage": "https://github.com/saimulhasnain-dev/create-nest-api-starter#readme",
+  "bugs": {
+    "url": "https://github.com/saimulhasnain-dev/create-nest-api-starter/issues"
+  },
+  "author": "saimulhasnain-dev"
+}
